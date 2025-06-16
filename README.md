@@ -4,7 +4,7 @@ This repository contains implementations and examples of data structures in vari
 
 ## Overview
 
-The **Data-Structures** repository is intended as a comprehensive resource and study guide for fundamental and advanced data structures. It includes code samples, explanations, and usage examples for a variety of data structures.
+The **Data Structures** repository is intended as a comprehensive resource and study guide for fundamental and advanced data structures. It includes code samples, explanations, and usage examples for a variety of data structures.
 
 ## Features
 
